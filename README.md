@@ -1,4 +1,4 @@
-# the-greqt-virus-lab 
+# the-great-virus-lab 
 
 # ☣️ Malware Repository Collection
 
